@@ -1,0 +1,11 @@
+Navbar, Nav, Nav.Link{
+    background-color: purple;
+    color: plum;
+    font-weight: bold;
+    
+}
+
+Nav{
+    display: flex;
+    justify-content: space-between;
+}

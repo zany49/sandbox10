@@ -1,0 +1,39 @@
+.manage-tasks{
+    display: flex;
+    /* flex-direction: row; */
+    flex-direction: column;
+    justify-content: center;
+}
+/* 
+.manage-tasks-child{
+    padding:10px;
+}  */
+
+.centered-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.form-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.my-form{
+    display: flex;
+    flex-direction: column;
+    /* flex-direction: row;
+    justify-content: center;*/
+    padding:10px; 
+}
+
+.manage-tasks-child{
+    padding:10px;
+} 
+
+
+.filtered-cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
